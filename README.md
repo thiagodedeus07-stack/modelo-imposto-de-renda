@@ -57,6 +57,14 @@ A planilha foi estruturada em diferentes abas, separando os dados de acordo com 
 
 https://github.com/thiagodedeus07-stack/modelo-imposto-de-renda/blob/7c8801ebc59f30e8dfee505d1154794070082cac/modelo-imposto-de-renda.png
 
+## ▶️ Como utilizar
+
+1. Baixe o arquivo Excel disponível na pasta `arquivo`.
+2. Abra o arquivo no Microsoft Excel.
+3. Preencha as informações solicitadas em cada seção.
+4. Utilize as tabelas e campos de apoio para organizar os dados.
+5. Confira as informações preenchidas antes de utilizar os dados para a declaração.
+
 ## ⚠️ Aviso
 
 Este projeto possui finalidade acadêmica e educacional. Os dados utilizados são fictícios e foram utilizados exclusivamente para demonstração do funcionamento da planilha.
