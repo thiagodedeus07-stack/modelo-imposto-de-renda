@@ -55,7 +55,7 @@ A planilha foi estruturada em diferentes abas, separando os dados de acordo com 
 
 ## 📸 Visualização
 
-Em breve será adicionada uma imagem da planilha.
+![Modelo de Imposto de Renda](imagens/modelo-imposto-de-renda.png)
 
 ## ⚠️ Aviso
 
